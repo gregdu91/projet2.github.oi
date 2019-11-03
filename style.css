@@ -1,0 +1,8 @@
+#card {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+    }
+.navbar {
+	position: fixed;
+}
